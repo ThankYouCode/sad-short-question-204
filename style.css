@@ -9,7 +9,8 @@ body {
     line-height: 20px;
 }
 
-header, footer {
+header,
+footer {
     background-color: rgb(106, 158, 255);
     padding: 20px;
 }
@@ -75,4 +76,20 @@ img {
     width: 30px;
     height: 30px;
     margin-right: 10px;
+}
+
+
+@media screen and (max-width: 480px) {
+
+    #container {
+        margin: 0 2vh;
+    }
+
+    .link li {
+        margin: 0 10px;
+    }
+
+    nav h1 {
+        font-size: 19px;
+    }
 }

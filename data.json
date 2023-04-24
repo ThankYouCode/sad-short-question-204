@@ -1,0 +1,246 @@
+{
+    "queans": [
+        {
+            "question": "What is Prototype ?",
+            "answer": "A prototype is a preliminary or first model of something, such as a machine.<br>-OR-<br>Prototyping is an iterative process of systems development in which requirements are converted to a working system that is continually revised througn close work between an analyst and users."
+        },
+        {
+            "question": "List out the type of user.",
+            "answer": "End user, Administrator, Observer(analyst), and Contributor(Programmer)"
+        },
+        {
+            "question": "What is system ?",
+            "answer": "System as a group of components or subsystems that integrate and function together in order to achieve a specific goal."
+        },
+        {
+            "question": "What is System Design ?",
+            "answer": "System Design is the process of defining elements of a system like modules, architecture, components and their interfaces and data for a system based on the specified requirements."
+        },
+        {
+            "question": "What is System Analysis ?",
+            "answer": "System analysis is the practice of planning, designing and maintaining software(information) systems.<br>-OR-<br>System analysis is the process by which an individual (s) studies a system such that an information system can be analyzed, modeled, and a logical alternative can be chosen."
+        },
+        {
+            "question": "Who is End user ?",
+            "answer": "The and user is the person who will e using the software and program."
+        },
+        {
+            "question": "Define types of system.",
+            "answer": "> Open system<br>> Closed system<br>> Physical System<br>> Abstract system<br>> Deterministic system<br>> Probabilistic system<br>> Information system"
+        },
+        {
+            "question": "What is Data capture ?",
+            "answer": "Data capture is the process of extracting information from paper or electronic documents and converting it into data for key systems."
+        },
+        {
+            "question": "What is Input ?",
+            "answer": "An input is data that is entered into or received by a computer."
+        },
+        {
+            "question": "What is Validation ?",
+            "answer": "Validation means checking or verifying any data before it is allowed into a computer system."
+        },
+        {
+            "question": "Define of Non-Signifficant code.",
+            "answer": "A non significant code conveys no information by itself."
+        },
+        {
+            "question": "Pay-slip is External output (T/F).",
+            "answer": "True"
+        },
+        {
+            "question": "Define: Data Validation.",
+            "answer": "Data Validation or Validation means checking or verifying any data before it is allowed into a computer system."
+        },
+        {
+            "question": "Define: Cohesion.",
+            "answer": "Cohesion refers to which the elements inside a module belong together."
+        },
+        {
+            "question": "What is full form of VTOC ?",
+            "answer": "VTOC - Volume Table Of Contents."
+        },
+        {
+            "question": "Define: Coupling.",
+            "answer": "Coupling is the degree of interdependence between software modules."
+        },
+        {
+            "question": "What is Peak Load testing ?",
+            "answer": "Peak load testing is placing a load on the server for a short time to emulate the heaviest demand that would be generated at peak user times."
+        },
+        {
+            "question": "Full form of HIPO.",
+            "answer": "Hieratchical Input Process Output (model)"
+        },
+
+        
+        {
+            "question": "List out the characteristics of system.",
+            "answer": "Components, Interrelated Components, Boundary, Purpose, Environment, Interfaces, Input, Output, Constraints"
+        },
+        {
+            "question": "What is Preliminary Investigation ?",
+            "answer": "Before taking any decision, gathering information is called preliminary investigation."
+        },
+        {
+            "question": "Which things are include in Preliminary Investigation ?",
+            "answer": "> Request clarification<br>..|_> Feasibility study.<br>.....|_> Technical feasibility.<br>.....|_> Operational feasibility.<br>.....|_> Economical feasibility.<br>> Request approval."
+        },
+        {
+            "question": "Which are the strategies of system testing ?",
+            "answer": "> Alpha testing<br>> Beta testing<br>> Code testing<br>> Specification testing<br>> Unit testing etc..."
+        },
+        {
+            "question": "What is DFD ? Give types of DFD.",
+            "answer": "Data Flow Diagram is graphical aid for defining systems inputs, proesses and outputs. It represents the flow of data througn the system.<br><br>There are two types of DFD.<br>..Physical DFD<br>..Logical DFD"
+        },
+        {
+            "question": "What is Physical DFD ?",
+            "answer": "Physical DFD consist an implementation - independent view of the current system. It showing what task is carried out and how they preformed."
+        },
+        {
+            "question": "What is Logical DFD ?",
+            "answer": "Logical DFD also an implementation - independent view of system, focusing on the flow of data between processes without regard for the specific devices, storage location or people in the system"
+        },
+        {
+            "question": "What is the fact-finding technique ?",
+            "answer": "The specific methods analysts use for collecting data about requirement are called fact finding technique."
+        },
+        {
+            "question": "List out different fact-finding techniques.",
+            "answer": "> Interview<br>> Questionnaires<br>> Record review<br>> Observation"
+        },
+        {
+            "question": "What is the difference between structured and unstructured Interviews ?",
+            "answer": "> Structured interview is less time consuming and the interviewer need not be a trained person.<br>> In unstructured interviews the respondents are free to answer and present their views."
+        },
+        {
+            "question": "What is the difference between Open-ended questionnaires and Closed questionnaires ?",
+            "answer": "> Open-ended questionnaires are useful when it is required to explore certain situation. They also require a lot of time of the analyst for evaluation.<br>> Closed questionnaires are used when factual information is required. Closed questions are quick to analyze but typically most costly to prepare but they are more suitable to obtain factual and common information."
+        },
+        {
+            "question": "What is tool ?",
+            "answer": "A tool is any device, object or operation used to accomplish a specific task."
+        },
+        {
+            "question": "which are the tools for documenting procedures ?",
+            "answer": "> Decision trees<br>> Decision tables<br>> Structure English"
+        },
+        {
+            "question": "What is structure English ? Which types of structure English ?",
+            "answer": "Structured English is a way of describing  the flow of a process.<br>> Types of structure English<br>.....Sequence structure<br>.....Decision structure<br>.....Iteration structure"
+        },
+        {
+            "question": "What is data dictionary ?",
+            "answer": "A data dictionary is a catalog, a repository fo the elements in a system."
+        },
+        {
+            "question": "What is the importance of data dictionary ?",
+            "answer": "> Manage detail<br>> Communicate meaning<br>> Document system features<br>> Facilitate analysis<br>> Locate errors and omissions"
+        },
+        {
+            "question": "Define  the Purpose of DFD.",
+            "answer": "DFDs are useful to identify information requirements<br>> DFDs can be used for <br>.....Presentation<br>.....Education<br>.....Gathering feedback information from users"
+        },
+        {
+            "question": "Which types of notations used to represent system component ?",
+            "answer": "> External entities<br>> Processes<br>> Data flows<br>> Data stores"
+        },
+        {
+            "question": "Define ER Diagram.",
+            "answer": "An entity-relationship (ER) diagram is a specific graphic that represent the inter-relationships between entities in a database."
+        },
+        {
+            "question": "Explain principles of output design i brief.",
+            "answer": "> Principle of starting with output.<br>> Principle of acceptability of reports.<br>> Principle of timely output<br>> Principle of enhancing the decision making process.<br>> Principle of practicing 'Management by Exception'.<br>> Principle of duplication in reports.<br>> Principle of simplicity in reports."
+        },
+        {
+            "question": "List out the types of output.",
+            "answer": "> External output.<br>> Internal output.<br>> Operational output.<br>> Interactive output.<br>> Turnaround output."
+        },
+        {
+            "question": "What are the output media in output design ?",
+            "answer": "> Printed output.<br>> Visual output.<br>> Turnaround ouput.<br>> Secondary storage output.<br>> Microfilm or microfiehe output.<br>> Audio response output."
+        },
+        {
+            "question": "What is code ?",
+            "answer": "A set of symbols for representing something is called code."
+        },
+        {
+            "question": "Why codes are necessary ?",
+            "answer": "> To identify data easily.<br>> To make data simplified and standardized. Hence the numbers of mistakes are reduced to level possible."
+        },
+        {
+            "question": "Write down the principles of code design ?",
+            "answer": "> Uniqueness.<br>> Compactness.<br>> Uniformity.<br>> Expansibility.<br>> Simplicity.<br>> Versatility<br>> Clarification.<br>> Stability.<br>> Meaningfulness."
+        },
+        {
+            "question": "Write down the types of code.",
+            "answer": "> Significant codes<br>> Logical codes<br>> Collating codes<br>....1) Alphabetic codes<br>....2) Hierarchical codes<br>....3) Classification codes<br>....4) Chronological codes<br>> Non-significant codes<br>....1) Sequential codes(serial or tag code)<br>....2) Random codes"
+        },
+        {
+            "question": "List out the types of form.",
+            "answer": "> Action forms - orders, instructs etc.<br>> Records memmory form - historical data, references.<br>> Report - summary of jobs"
+        },
+        {
+            "question": "Basic principles of form design.",
+            "answer": "> The form should be as simple as possible to understand and compile. The language used should understandable to user.<br>> Entries should be flow in logical sequence.<br>> Layout of form should be standardized and practicable.<br>> Ease of use - format of form should be such that it can easily filled up."
+        },
+        {
+            "question": "Form design consideration.",
+            "answer": "> Title<br>> Spacing<br>> Logical arrangement<br>> Abbreviation<br>> Numbering the forms<br>> Size and color of paper to be used"
+        },
+        {
+            "question": "Write steps to prepare form design.",
+            "answer": "> Describe purpose of form<br>> State its data content<br>> Make a decision upon quantity required<br>> Decide the format and the layout of the form<br>> Revisions with the user, revise using new guide sheet, if necessary<br>> Produce reasonable sample<br>> Submit to forms organizer for approval<br>> Revise if necessary<br>> Put order via forms organizer"
+        },
+        {
+            "question": "List out the benefite of Using Tools",
+            "answer": "> Improve productivity<br>> Improve Effectiveness<br>> Improve Information System Quatily"
+        },
+        {
+            "question": "What is file ?",
+            "answer": "A file is number of related records that treated as one unit."
+        },
+        {
+            "question": "What is testing ?",
+            "answer": "Testing is to detect software failures so that defects may be uncovered and corrected."
+        },
+        {
+            "question": "What is verification / alpha test ?",
+            "answer": "Verificaiton: verification is process of using program in live environment in order to find errors. Verification also known as alpha testing."
+        },
+        {
+            "question": "What is certification ?",
+            "answer": "Software certification is an approval of the correctness of the program."
+        },
+        {
+            "question": "What is specification testing ?",
+            "answer": "Specification testing is process of examine the specifications stating what the program should do and how it should perform under various condition."
+        },
+        {
+            "question": "List out types of system testing.",
+            "answer": "> Peak Load testing<br>> Storage testing<br>> Performance time testing<br>> Recovery testing<br>> Procedure testing"
+        },
+        {
+            "question": "What is implementation ?",
+            "answer": "Implementation includes all those activities that take place to convert from the old system to the new system."
+        },
+        {
+            "question": "Explain Training methodes ?",
+            "answer": "> Vendor and in service training<br>> In house training"
+        },
+        {
+            "question": "What is conversion ?",
+            "answer": "Conversion means converting old system to new system."
+        },
+        {
+            "question": "List out the Method of conversion.",
+            "answer": "> Paralles systems<br>> Direct conversation<br>> Pilot system<br>> Phase-in"
+        },
+        {
+            "question": "Define Post Implementation Review.",
+            "answer": "A Post Implementation Review (PIR) is an assessment and review of the completed working solution. It will be performed after a period  on live running, some time after the project is completed"
+        }
+    ]
+}
